@@ -1,0 +1,94 @@
+.main{
+    height: 609px;
+    width: 706px;
+    background-color: aqua;
+}
+.header{
+    height: 100px;
+    width: 706px;
+    background-color:green;
+    margin-bottom: 3px;
+    text-align: center;
+    text-align: center; 
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+
+}
+.navbar{
+    height: 100px;
+    width: 706px;
+    background-color: green;
+    margin-bottom: 5px;
+    text-align: center;
+    text-align: center; 
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+
+}
+.mainsec{
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+    float: left;
+    margin-right: 3px;
+    text-align: center;
+    text-align: center; 
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+
+}
+
+
+
+.side{
+    height:300px ;
+    width:100px ;
+    background-color:blue;
+    float: right;
+    margin-bottom: 3px;
+    text-align: center;
+    text-align: center; 
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+
+
+}
+.artical{
+    height:200px ;
+    width:300px ;
+    background-color: blue;
+    float: right;
+    margin-right: 3px;
+    text-align: center;
+    text-align: center; 
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.footer{
+    height: 100px;
+    width: 706px;
+    background-color: green;
+    float: left;
+    text-align: center;
+    text-align: center; 
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}

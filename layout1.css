@@ -1,0 +1,95 @@
+
+*{
+    margin: auto;
+
+}
+
+
+
+
+
+.main{
+    height:900px;
+    width:100%;
+    background-color:white;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow:10px,10px;
+    text-decoration: double;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-weight:bold;
+    color: chartreuse;
+     
+
+    
+
+}
+.header{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(10, 173, 173);
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    color: chartreuse;
+
+    
+
+}
+.galary{
+    height: 300px;
+
+    width: 37%;
+    background-color: grey;
+    float: left;
+    text-align: center;
+    border-top: 5px black;
+    border-right: 5px black;
+    margin-top: 4px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    color: chartreuse;
+}
+.mainn{
+    height: 300px;
+    width: 57%; 
+    background-color: gray;
+    float: right;
+    text-align: center;
+    border-top: 5px black;
+    border-left: 5px black;
+    margin-top: 4px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: monospace;
+    font-size: medium;
+    font-weight: bold;
+    color: chartreuse;
+}
+
+    
+
+.footer{
+    height: 300px;
+    width: 100%;
+    background-color: cadetblue;
+    float: left;
+    text-align: center;
+    margin-top: 4px;
+    text-decoration: underline;
+    
+    text-transform: capitalize;
+    font-family: monospace;
+    font-size: medium;
+    font-weight: bold;
+    color: chartreuse;
+       
+}
