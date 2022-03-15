@@ -1,0 +1,189 @@
+.main{
+    height: 900px;
+    width: 1200px;
+    background-color:white;
+}
+
+
+
+
+
+.header{
+    background-color: aqua;
+    height: 150px;
+    /* position: absolute; */
+    width: 500px;
+    float: left;
+    background-image: url(imagess/gym\ icon.jpg);
+    text-align: right;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    text-decoration-color: black;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    vertical-align: middle;
+    color: aqua;
+
+    
+    background-size: auto;
+    /* border-style: double;
+    border-color: black; */
+
+    
+    
+
+    background-repeat: no-repeat;
+     
+    
+    
+
+}
+.socialmedia{
+    background-color: blue;
+    height: 75px;
+    /* position: relative; */
+    width: 700px;
+    float: right;
+
+
+}
+.socialmedia div{
+    width: 100px;
+    height:75px;
+    vertical-align: middle;
+    -moz-box-align: center;
+    float: left;
+}
+.socialmedia img{
+    width: 200px;
+    height: 60px;
+    border-style: dotted;
+    border-radius: 5px;
+}
+
+
+
+    
+
+.menu{
+    background-color: burlywood;
+    height: 75px;
+    /* position: relative; */
+    width: 700px;
+    float: right;
+    float: left;
+    
+
+
+}
+.menu ul li{
+    float: left;
+    display: inline;
+    list-style-type: none;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 4px;
+    background-color: beige;
+   text-align: center;
+   line-height: 40px;
+   
+   
+}
+.imagegalary{
+    background-color: yellow;
+    height: 350px;
+    /* position: absolute; */
+    width: 1200px;
+
+
+}
+.imagegalary div{
+    width: 1200px;
+    height: 200px;
+    text-align: center;
+    text-transform: capitalize;
+    vertical-align: middle;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-decoration: double;
+    text-shadow: 10px 10px 5px black;
+}
+.photo1{
+    background-color: chocolate;
+    height: 350px; ;
+    /* position: absolute; */
+    width: 300px;
+    display: inline;
+    float: left;
+    
+
+}
+.photo1 img{
+    width:300px ;
+    height: 350px; ;
+}
+      .photo4{
+         background-color: springgreen;
+         height: 350px;
+         /* position: relative; */
+          width: 300px;
+           display: inline;
+           float: right;
+           /* top: 150px; */
+        }
+        .photo4 img{
+            width: 300px;
+            height: 350px;
+        }
+
+         .photo2{
+         background-color: tomato;
+          height: 350px;
+          position: relative;
+           width: 300px;
+          display: inline;
+          /* top: 500px; */
+          float: left;
+    
+
+
+         }
+         .photo2 img{
+             width: 300px;
+             height: 350px;
+
+         }
+         .photo3{
+           background-color: teal;
+          height: 350px;
+           position: relative;
+          width: 300px;
+           display: inline;
+           float: left;
+
+
+         }
+
+
+
+.footer{
+    background-color: slateblue;
+    height: 50px;
+    /* position: absolute; */
+    width: 1200px;
+    float: left;
+    display: inline;
+    text-decoration: underline;
+    text-align: center;
+    text-decoration-color: black;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-variant: normal;
+
+
+}
