@@ -1,0 +1,128 @@
+.main{
+    /* padding: 100px 100px 100px 100px; */
+    margin: 50px 50px 50px 50px;
+    width: 1200px;
+    height: 1300px;
+    background-color: yellow;
+
+}
+.header{
+    background-color: aqua;
+    height:500px ;
+    width: 1200px;
+}
+.header img{
+    width: 1200px;
+    height: 500px;
+    opacity: 0.8;
+
+
+}
+.header h1{
+    color: black;
+    position: absolute;
+    top: 200px;
+    left: 420px;
+    text-decoration: underline;
+    text-shadow: -10px -10px 5px rgba(247, 0, 255, 0.815);
+    text-decoration-color: chartreuse;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.header h5{
+    position: absolute;
+    top: 250px;
+    left: 420px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.header form{
+    position: absolute;
+    top: 300px;
+    left: 620px;
+    background-color: violet;
+}
+.form:hover{
+    background-color: cadetblue;
+}
+.content{
+    background-color: violet;
+    width: 1200px;
+    height: 100px;
+
+}
+.content div{
+    color: brown;
+}
+.content div{
+    column-count: 2;
+}
+.col1{
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.col2{
+    width: 300px;
+    height: 300px;
+    background-color:gray;
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.col3{
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.content2{
+    background-color: chocolate;
+    width: 1200px;
+    height: 100px;
+    float: left;
+
+
+}
+.div1{
+    background-color: tomato;
+    width: 600px;
+    height: 200px;
+    float: left;
+
+}
+.div2{
+    background-color:burlywood;
+    width: 600px;
+    height: 200px;
+    float: left;
+
+
+}
+.footer{
+    background-color:rgb(238, 200, 130);
+    width: 1200px;
+    height: 100px;
+    float: left;
+
+
+}
+
+
