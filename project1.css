@@ -1,0 +1,89 @@
+.main{
+    width: 1200px;
+    height: 900px;
+    background-color: aqua;
+}
+.header{
+    width: 1200px;
+    height: 500px;
+    background-color: brown;
+    /* background-image: url(imagess/beach\ img.jpg); */
+
+}
+.header img{
+    width: 1200px;
+    height: 500px;
+    opacity: 0.5px;
+    border-radius: 5px;
+    background-attachment: fixed;
+    border: 5px black;
+    
+
+}
+.header h1{
+    position: absolute;
+    top: 150px;
+    left: 300px;
+    font-size: 80px;
+    color: darkred;
+    box-shadow: -10px -10px 5px black;
+}
+.header h5{
+    text-align: center;
+    position: absolute;
+    vertical-align: middle;
+    top: 270px;
+    left: 300px;
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-variant: small-caps;
+    /* font-variant: small-caps; */
+    
+}
+.header form{
+    position: absolute;
+    top: 330px;
+    left: 570px;
+}
+.content{
+    width: 1200px;
+    height: 200px;
+    background-color: yellowgreen;
+}
+.content div{
+    background-color: yellowgreen;
+    
+}
+
+    
+
+.footer1{
+    width:400px;
+    height: 200px;
+    background-color: brown;
+    float: left;
+}
+.footer1 div{
+    background-color: brown;
+}
+.footer2{
+    width: 400px;
+    height: 200px;
+    background-color: beige;
+    float: left;
+}
+.footer2 div{
+    background-color: beige;
+}
+.footer3{
+    width: 400px;
+    height: 200px;
+    background-color: brown;
+    float: left;
+
+}
+.footer3 div{
+    background-color: brown;
+}
