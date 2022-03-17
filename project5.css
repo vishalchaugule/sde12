@@ -1,0 +1,167 @@
+.body{
+    /* background-image: url(imagess/athletic-shirtless-young-sports-man-600w-695401201.webp); */
+    background-repeat: no-repeat;
+   
+}
+.body img{
+    width: 1300px;
+    height: 600px;
+    background-repeat: no-repeat;
+
+}
+.left img{
+    display: inline;
+    float: left;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;
+    border: 2px solid red;
+}
+.left div{
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    border: 2px solid red;
+    position: absolute;
+    top: 130px;
+    left: 30px;
+    color: white;
+}
+.mid{
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left:270px;
+    border: 2px solid red;
+     
+}
+.mid li{
+    display: inline-block;
+    font-size: 25px;
+
+}
+.mid li a{
+    color: beige;
+    padding: 60px;
+}
+.mid li a:hover{
+    background-color: brown;
+}
+
+/* .mid ul{
+    display: inline;
+    border: 2px solid red;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    top: 30px;
+    left: 200px;
+    display: inline; */
+
+
+/* } */
+/* .mid ul li a{
+    display: inline;
+    width: 30px;
+    height: 20px;
+    position: absolute;
+    top:40px ;
+    left:220px ;
+} */
+/* .mid ul a{
+    display: inline;
+    width: 30px;
+    height: 20px;
+    position: absolute;
+    top:40px ;
+    left:220px ;
+} */
+.right form{
+    border: 2px solid red;
+    width: 50px;
+    height: 20px;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 5px;
+    position: absolute;
+    top: 30px;
+    right: 120px;
+
+}
+.right2 form{
+    border: 2px solid red;
+    width: 50px;
+    height: 20px;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 5px;
+    position: absolute;
+    top: 30px;
+    right: 50px;
+}
+/* .join{ */
+    /* border: 2px solid red; */
+    /* position: absolute; */
+    /* top: 400px; */
+    /* left: 200px; */
+/* } */
+.join h1{
+    border: 2px solid red;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    color: tomato;
+
+}
+.input form{
+    border: 2px solid red;
+    position: absolute;
+    display: inline;
+    top: 280px;
+    left: 150px;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    font-size: 20px;
+
+}
+.input input{
+    border: 2px solid red;
+     border-radius: 5px;
+     width: 280px;
+     height: 40px;
+     font-size: 10px;
+     margin: 5px;
+     text-transform: uppercase;
+     
+
+
+}
+.submit form{
+    border: 2px solid red;
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 500px; ;
+    left:250px ;
+}
+
+.submit form{
+    width: 280px;
+    height: 40px;
+    font-size: 10px;
+    margin: 5px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 500px;
+    left: 260px;
+    width: 100px;
+    height: 30px;
+
+
+}

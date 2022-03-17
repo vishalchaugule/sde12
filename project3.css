@@ -11,11 +11,13 @@
     height: 600px;
     /* background-color: black; */
     opacity: 0.4;
+    position: sticky;
     
 }
 .img1 img{
     width: 1370px;
     height: 600px;
+    position: sticky;
 
 }
 .img1 h1{
@@ -49,6 +51,7 @@
 .img2 img{
      width: 1370px;
     height: 300px;
+    position: sticky;
     
 }
 .section2{
@@ -72,6 +75,7 @@
 .img3 img{
     width: 1370px;
     height: 300px;
+    position: sticky;
 
 }
 .section3{
@@ -96,6 +100,8 @@
     width: 1370px;
     height: 600px;
     opacity: 0.4;
+    position: sticky;
+    
 
 }
 
