@@ -1,0 +1,127 @@
+.main{
+
+    width: 1200px;
+    height: 600px;
+    /* background-color: black; */
+    
+
+
+}
+.main img{
+    opacity: 0.5;
+}
+.div1{
+    width: 100px;
+    height: 100px;
+    /* background-color: black; */
+
+}
+.div1 img{
+    width: 200px;
+    height: 100px;
+    border: 2px solid red;
+    border-radius: 10px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    padding: 2px;
+    margin: 2px;
+    /* opacity: 1.0;
+     */
+     /* position: sticky; */
+
+
+
+
+}
+.div2{
+    width: 600px;
+    position: static;
+    height: 200px;
+    /* border: 2px solid red; */
+     border-radius: 10px;
+     /* width: 400px; */
+     /* height: 200px; */
+     /* border: 2px solid red; */
+     /* border-radius: 10px; */
+     position: absolute;
+     top: 20px;
+     left: 400px
+
+     
+}
+.div2 li{
+    display: inline-block;
+    width: 100px;
+    height: 20px;
+    background-color: greenyellow;
+    margin: 13px 13px 13px 13px;
+    padding: 5px 5px 5px 5px;
+    vertical-align: middle;
+    text-align: center;
+    opacity: 1.0;
+    color: azure;
+
+    
+}
+.div2 a{
+    color: azure;
+    background-color: cadetblue;
+
+}
+.div2 li a:hover{
+    background-color: black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+.div3{
+    position: absolute;
+    top: 50%;
+    left: 550px;
+    display: inline;
+    font-size: 20px;
+
+}
+.div4{
+    position: absolute;
+    top: 440px;
+    left: 250px;
+    font-size: 10px;
+    column-count: 4;
+    column-rule: 5px;
+    column-rule-color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: violet;
+
+
+}
+.div5{
+    position: absolute;
+    top: 500px;
+    left: 580px;
+    background-color: cadetblue;
+  
+
+}
+.div5 button{
+    width: 100px;
+    height: 20px;
+    
+}
+.div5 button:hover{
+    background-color: violet;
+}
+.div6{
+    position: absolute;
+    top: 500px;
+    left: 750px;
+    background-color: cadetblue;
+
+}
+.div6 button{
+    width: 100px;
+    height: 20px;
+}
+.div6 button:hover{
+    background-color: violet;
+}
