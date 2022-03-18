@@ -1,0 +1,122 @@
+.main{
+    width: 1200px;
+    height: 700px;
+    
+}
+.main img{
+    width: 1200px;
+    height: 700px;
+    margin: 10px 10px 10px 10px;
+
+}
+.logo{
+    width: 200px;
+    height: 60px;
+    /* border: 2px solid red; */
+    /* border-radius: 10px; */
+
+}
+.logo img{
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border: 2px solid red;
+    border-radius: 10px;
+    background: transparent;
+
+
+}
+.menu ul{
+    width: 800px ;
+    height: 30px;
+    position: absolute;
+    top: 10px;
+    left: 500px;
+   
+}
+.menu ul li{
+    display: inline-block;
+    /* width: 400px ;
+    height: 30px; */
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+}
+.menu ul li a:hover{
+    background-color: chartreuse;
+    color: white;
+
+
+}
+.logo2 img{
+    position: absolute;
+    top: 30px;
+    left:1120px ;
+    width: 50px;
+    height: 30px;
+}
+.sahara h1{
+    position: absolute;
+    top: 40%;
+    left:70px;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-style: italic;
+    width: 100px;
+    height: 30px;
+
+
+
+}
+.sahara h1:hover{
+    text-shadow: -10px 10px 5px blueviolet;
+    
+}
+.text h6{
+    position: absolute;
+    top: 50%;
+    left: 70px;
+    font-size: 20px;
+
+}
+.button{
+    position: absolute;
+    top: 70%;
+    left: 70px;
+}
+.button button{
+    width: 100px;
+    height: 30px;
+
+}
+
+.photo img{
+    position: absolute;
+    top: 50%;
+    left: 650px;
+    width: 200px;
+    height: 250px;
+    border-radius: 13px;
+    background: transparent;
+    border: 5px solid greenyellow;
+    transition: 2s;
+    
+
+}
+.photo img:hover{
+    transform: rotate(10deg);
+    transition: 2s;
+    box-shadow: -10px -10px 4px black;
+
+}
+
+
+   
+
+    
+
+
+
